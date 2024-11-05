@@ -1,14 +1,14 @@
 #!name = 铁路12306
 #!desc = 过滤铁路12306广告
 #!openUrl = https://apps.apple.com/app/id564818797
-#!author = RuCu6[https://github.com/RuCu6]
+#!author = XXX
 #!tag = 去广告
 #!system = 
 #!system_version = 
 #!loon_version = 3.2.2(749)
 #!homepage = 
 #!icon = https://raw.githubusercontent.com/very-hot/PrivateBall/refs/heads/main/Database/Railway12306.png
-#!date = 2024-10-22 00:00
+#!date = 2024-11-05 00:00
 
 [Rule]
 # 放行规则
