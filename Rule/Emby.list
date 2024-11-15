@@ -1,5 +1,6 @@
-# 来源： https://github.com/Repcz/Tool/blob/X/Loon/Rules/Emby.list
-# 最后更新时间：2024-09-17 19:27
+# 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
+# 最后更新时间：2024-11-11 18:15
+
 
 ##### A #####
 
@@ -12,6 +13,9 @@ DOMAIN-SUFFIX,agan2.vip
 
 # Aiyowei
 DOMAIN-SUFFIX,emby.aiyowei.ml
+
+# AlphaTV
+DOMAIN,oversea.alphatvapp.top
 
 ##### B #####
 
@@ -83,6 +87,7 @@ DOMAIN-SUFFIX,gtlx.org
 
 # HXD(Porn)
 DOMAIN-SUFFIX,hxd.as174.com
+DOMAIN-SUFFIX,emby.as174.com
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,nvidia.rip
 
