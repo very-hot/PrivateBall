@@ -397,6 +397,9 @@ DOMAIN-SUFFIX,zi0.icu
 
 ##### 0-9 #####
 
+#9Club
+IP-CIDR,152.53.14.71/32,DIRECT,no-resolve
+
 ##### 未分类 #####
 
 DOMAIN-SUFFIX,emby.ws
