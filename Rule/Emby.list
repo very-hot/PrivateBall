@@ -1,5 +1,5 @@
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间：2024-11-11 18:15
+# 最后更新时间：2024-11-30 18:15
 
 
 ##### A #####
@@ -397,8 +397,8 @@ DOMAIN-SUFFIX,zi0.icu
 
 ##### 0-9 #####
 
-#9Club
-IP-CIDR,152.53.14.71/32,DIRECT,no-resolve
+# 9Club
+# IP-CIDR,152.53.14.71/32,DIRECT,no-resolve
 
 ##### 未分类 #####
 
