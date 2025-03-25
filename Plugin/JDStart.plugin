@@ -1,0 +1,23 @@
+#!name = 京东开屏广告
+#!desc = 京东开屏广告
+#!openUrl = 
+#!author = veryhot
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.2.1(745)
+#!homepage = 
+#!icon = https://raw.githubusercontent.com/very-hot/PrivateBall/refs/heads/main/Icon/App/Jingdong.png
+#!date = 2025-03-26 11:00:00
+
+[Rule]
+
+[Rewrite]
+# > 京东 去开屏广告
+^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=(deliverLayer|getTabHomeInfo|orderTrackBusiness|personinfoBusiness|start) - reject
+^https:\/\/m\.360buyimg\.com\/mobilecms\/s(?:1125x2436|1080x1920) - reject
+
+[Script]
+
+[MitM]
+hostname = m.jd.com, m.360buyimg.com
