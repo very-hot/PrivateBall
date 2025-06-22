@@ -1,0 +1,23 @@
+#!name = 财联社去广告
+#!desc = 财联社去广告
+#!openUrl = 
+#!author = veryhot
+#!tag = 去广告
+#!system = 
+#!system_version = 
+#!loon_version = 3.2.1(745)
+#!homepage = 
+#!icon = https://raw.githubusercontent.com/very-hot/PrivateBall/refs/heads/main/Icon/App/cailianshe.png
+#!date = 2025-06-23 11:00:00
+
+[Rule]
+
+[Rewrite]
+# > 财联社
+^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad
+
+[Script]
+
+[MitM]
+hostname = api3.cls.cn
+^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad
