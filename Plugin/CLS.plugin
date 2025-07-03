@@ -14,7 +14,7 @@
 
 [Rewrite]
 # > 财联社
-^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad
+^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad - reject
 
 [Script]
 
