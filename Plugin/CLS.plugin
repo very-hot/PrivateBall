@@ -20,4 +20,3 @@
 
 [MitM]
 hostname = api3.cls.cn
-^https?:\/\/api3\.cls\.cn\/v1\/boot\/ad
